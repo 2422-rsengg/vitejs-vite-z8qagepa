@@ -9,7 +9,7 @@ import {
   Calendar,
   Zap,
   ShieldCheck,
-} from 'lucide-center'; // Note: Usually 'lucide-react', ensure your package.json matches
+} from 'lucide-react'; // Note: Usually 'lucide-react', ensure your package.json matches
 
 export default function App() {
   // MODIFIED: This now pulls from your .env file automatically
