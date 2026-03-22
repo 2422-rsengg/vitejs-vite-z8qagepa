@@ -1,6 +1,7 @@
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Quick Start: This AI Agent orchestrates your meals based on your daily calendar and energy levels. If the preview doesn't load instantly, please wait 30 seconds for the container to boot!
 
 Currently, two official plugins are available:
 
